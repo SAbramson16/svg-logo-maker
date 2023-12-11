@@ -11,7 +11,7 @@ The script files are located in the lib folder. When rendered, the logo and inde
 ## Usage
 To run the application, in the command line, the user will input "node index.js". Prompts will appear for the user to input how they would like their logo to look. Once the user answers all of the questions, the SVG file will render in the output folder, as well as the index.html file. The generated logo can be viewed in either environment. To run the tests on each shape class, in the command line, the user will input "npm run test". If successful, the tests will all pass. A demonstration video is included. 
 
-Follow the link for a video demonstration of the application being used: 
+Follow the link for a video demonstration of the application being used: https://drive.google.com/file/d/1eO0sCGyrey1jD_DDpX1CIoBPTup2iIxj/view
 
 ## Credits
 
