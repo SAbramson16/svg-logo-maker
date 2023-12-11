@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an application that will generate a logo based on user input from prompts given in the command line..
+This is an application that will generate a logo based on user input from prompts given in the command line.
 
 ## Installation
 
