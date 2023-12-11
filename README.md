@@ -9,7 +9,7 @@ This is an application that will generate a logo based on user input from prompt
 The script files are located in the lib folder. When rendered, the logo and index.html will populate in the output folder. Tests files are located in the tests folder. Index.js is located in the root directory. To run this application, Inquirer must be installed. To run the tests, Jest must be installed.
 
 ## Usage
-To run the application, in the command line, the user will input "node index.js". Prompts will appear for the user to input how they would like their logo to look. Once the user answers all of the questions, the SVG file will render in the output folder, as well as the index.html file. The generated logo can be viewed in either environment. To run the tests on each shape class, in the command line, the user will input "npm run test". If successful, the tests will all pass. 
+To run the application, in the command line, the user will input "node index.js". Prompts will appear for the user to input how they would like their logo to look. Once the user answers all of the questions, the SVG file will render in the output folder, as well as the index.html file. The generated logo can be viewed in either environment. To run the tests on each shape class, in the command line, the user will input "npm run test". If successful, the tests will all pass. A demonstration video is included. 
 
 Follow the link for a video demonstration of the application being used: 
 
